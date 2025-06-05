@@ -35,6 +35,10 @@ I am a passionate software developer with expertise in C, Javascript, C#, and ex
 - **[Gamejam](https://github.com/Loic-ally/Epitech-Game-Jam)**: A project developed during a game development competition.
   - **Technologies Used**: Unity 6.0, C#.
   - **Features**: Rapid prototyping, team collaboration, playable horror game
+ 
+- **[SecureShot](https://github.com/Loic-ally/SecureShot)**: A project developed for fun
+  - **Technologies Used**: React, Javascript and Supabase
+  - **Features**: Website to sell pictures in a secure way.
 
 [View all my projects](https://github.com/Loic-ally?tab=repositories)
 
